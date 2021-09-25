@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "njord"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Njord
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This is a VS Code dark theme, based on the great Nord Deep, that is based on
+nord... I know...
+It has a slightly reduced contrast and emphasizes the important parts of your
+code (your variables and functions, not the punctuation).
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+I'll prabably be changing this quite randomly, so don't count on it being
+particularly stable...

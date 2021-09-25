@@ -1,0 +1,37 @@
+{
+	"name": "njord",
+	"displayName": "Njord",
+	"description": "A dark theme based on Nord Deep",
+	"version": "0.0.1",
+  "license": "MIT",
+  "publisher": "mefechoel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mefechoel/njord"
+  },
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "VS Code"
+  ],
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Njord",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Njord-color-theme.json"
+			},
+			{
+				"label": "Njord (low contrast)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Njord-low-contrast-color-theme.json"
+			}
+		]
+	}
+}
